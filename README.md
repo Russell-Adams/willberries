@@ -1,3 +1,3 @@
 # willberries
-Training project
+Training project,
 Created by Ruslan Aushev
